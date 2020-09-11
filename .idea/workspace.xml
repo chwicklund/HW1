@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f85cdc3-8d61-4468-a500-de4fc1b71121" name="Default Changelist" comment="" />
+    <list default="true" id="8f85cdc3-8d61-4468-a500-de4fc1b71121" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hL9FKqlzUkawvER6Ra1BFU5TTP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +27,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599779400885</updated>
-      <workItem from="1599779403040" duration="2218000" />
+      <workItem from="1599779403040" duration="3716000" />
     </task>
     <servers />
   </component>
@@ -55,14 +63,38 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="217" y="6" key="#SSH_Configurations/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599779872793" />
+    <state x="414" y="-885" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599782605609">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="414" y="-885" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599782605609" />
+    <state x="740" y="-785" key="FileChooserDialogImpl" timestamp="1599782617989">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="740" y="-785" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599782617989" />
+    <state x="838" y="-642" key="Github.ShareDialog" timestamp="1599782643124">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="838" y="-642" key="Github.ShareDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599782643124" />
+    <state x="777" y="-835" key="Github.UntrackedFilesDialog" timestamp="1599781694516">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="777" y="-835" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599781694516" />
     <state x="461" y="-895" key="SettingsEditor" timestamp="1599780205999">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="461" y="-895" key="SettingsEditor/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599780205999" />
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1599781839666">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599781839666" />
     <state x="789" y="-943" key="ftp.server.browser" timestamp="1599780672261">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="789" y="-943" key="ftp.server.browser/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599780672261" />
     <state x="526" y="91" key="ftp.server.browser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599779991100" />
+    <state x="760" y="-639" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599781902236">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="760" y="-639" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1599781902236" />
   </component>
 </project>
